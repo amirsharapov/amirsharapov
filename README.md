@@ -8,9 +8,8 @@ As we advance into the future of AI and robotics, I'm excited about the possibil
 
 # What I'm Working On 📚
 
-- Website - Host my blog
-- AI Agents - Experimentation with AI agents.
-- Course Projects - One repository to rule them all
+- Website - Host blogs, thoughts, and future research
+- ML Course Projects - Implementing what I'm learning from ML courses
 
 # Project Highlights ⭐
 
